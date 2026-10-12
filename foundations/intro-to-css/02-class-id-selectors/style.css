@@ -1,1 +1,28 @@
-/* Add CSS Styling */
+.heading1 {
+    color: black;
+    background-color: pink;
+    text-align: left;
+    font-size: 24px;
+}
+.heading2 {
+    color: blue;
+    font-size:64px;
+}
+.para1 {
+    background-color: pink;
+    color: black;
+    font-size: 32px;
+}
+.heading3 {
+    color: black;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 32px;
+
+}
+.para2{
+    background-color: pink;
+    color: black;
+    font-size: 24px;
+
+}
